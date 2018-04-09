@@ -19,7 +19,6 @@
 	四个标量类型  int float string bool
 	两个复合类型 array OBJECT   
 	两个特殊类型 null resource
-	
 	echo print_r  var_dump*/
 
 ?>
